@@ -1,8 +1,7 @@
-#application.yml 请保存为UTF-8格式
 spring:
    profiles: 
        active:
-       -dev
+       - dev
 ---
 spring:
    profiles: dev #开发环境
