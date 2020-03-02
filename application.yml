@@ -1,5 +1,3 @@
-#请保存为utf-8格式，否则github报错
-
 spring:
    profiles: 
        active:
@@ -14,3 +12,4 @@ spring:
    profiles: test #测试环境
        application:
          name: springcloud-config-server-test
+#请保存为utf-8格式，否则github报错
